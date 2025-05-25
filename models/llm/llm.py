@@ -10,7 +10,7 @@ from ..oaiapi import OAIAPICompatLargeLanguageModel
 
 class BurnCloudLargeLanguageModel(OAIAPICompatLargeLanguageModel):
     def _update_endpoint_url(self, credentials: dict):
-        credentials["endpoint_url"] = "https://ai.burncloud.com/v1"
+        credentials["endpoint_url"] = "https://ai.burncloud.com/v1/"
         credentials["extra_headers"] = {"X-API-Source": "dify.ai"}
         return credentials
 

@@ -1,4 +1,4 @@
-model: claude/claude-3-7
+model: claude-3-7-sonnet-20250219
 label:
   zh_Hans: Claude 3.7
   en_US: Claude 3.7

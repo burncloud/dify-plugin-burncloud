@@ -1,4 +1,4 @@
-model: google/gemini-2.0
+model: gemini-2.0-flash
 label:
   zh_Hans: Gemini 2.0
   en_US: Gemini 2.0

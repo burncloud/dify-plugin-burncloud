@@ -1,4 +1,4 @@
-model: openai/gpt-4o
+model: gpt-4o
 label:
   zh_Hans: GPT-4o
   en_US: GPT-4o

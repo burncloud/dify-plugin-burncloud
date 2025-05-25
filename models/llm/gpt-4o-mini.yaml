@@ -1,4 +1,4 @@
-model: openai/gpt-4o-mini
+model: gpt-4o-mini
 label:
   zh_Hans: GPT-4o Mini
   en_US: GPT-4o Mini

@@ -1,4 +1,4 @@
-model: claude/claude-4
+model: claude-sonnet-4-20250514
 label:
   zh_Hans: Claude 4.0
   en_US: Claude 4.0

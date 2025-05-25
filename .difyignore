@@ -3,6 +3,8 @@
 dify-plugin-windows-amd64.exe
 dify-cli.exe
 
+*.bat
+
 # Exclude build artifacts
 *.difypkg
 *.signed.difypkg

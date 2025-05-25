@@ -1,0 +1,1 @@
+ dify-plugin-windows-amd64.exe plugin package . -o burncloud.difypkg

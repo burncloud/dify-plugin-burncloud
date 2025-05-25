@@ -1,4 +1,4 @@
-model: openai/gpt-4.5-preview
+model: gpt-4.5-preview
 label:
   zh_Hans: GPT-4.5 Preview
   en_US: GPT-4.5 Preview

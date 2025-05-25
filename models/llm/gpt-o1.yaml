@@ -1,4 +1,4 @@
-model: openai/o1
+model: o1
 label:
   zh_Hans: GPT-o1
   en_US: GPT-o1

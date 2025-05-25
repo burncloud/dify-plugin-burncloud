@@ -1,0 +1,32 @@
+# Dify Plugin Ignore File
+# Exclude CLI tools
+dify-plugin-windows-amd64.exe
+dify-cli.exe
+
+# Exclude build artifacts
+*.difypkg
+*.signed.difypkg
+
+# Exclude git files
+.git/
+.gitignore
+
+# Exclude IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Exclude temporary files
+*.tmp
+*.temp
+*.log
+
+# Exclude keys and certificates
+*.pem
+*.key
+*.crt
+
+# Exclude backup files
+*.bak
+*.backup 

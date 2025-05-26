@@ -1,7 +1,7 @@
-# 总览
+# Overview
 
-BurnCloud 云提供稳定、高性价比的开源模型 API 服务，支持 Claude 4.0/3.7/3.5、GPT 4o/4o-mini/o1/4.5 preview/o1-mini、GPT-image-1、Gemini 2.5 pro/2.0、DeepSeek R1/V3 等行业领先大模型。
+BurnCloud provides stable, cost-effective open-source model API services, supporting Claude 4.0/3.7/3.5, GPT 4o/4o-mini/o1/4.5 preview/o1-mini, GPT-image-1, Gemini 2.5 pro/2.0, DeepSeek R1/V3 and other industry-leading large models.
 
-# 配置
+# Configuration
 
-安装插件后，进入设置页面，输入您的 API Key。从 [这里](https://www.burncloud.com/ai_1xPE.html) 创建您的 API Key 并保存。
+After installing the plugin, go to the settings page and enter your API Key. Create your API Key from [here](https://www.burncloud.com/ai_1xPE.html) and save it.
